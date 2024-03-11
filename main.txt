@@ -1,1 +1,3 @@
 main text
+
+all main
